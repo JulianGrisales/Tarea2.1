@@ -1,0 +1,57 @@
+body {
+    background: #000000
+}
+
+.titulos {
+    color: #EBE05F;
+    font-family: "Arial";
+    background-color: #a71930;
+}
+
+#HTML {
+    color: #EBE05F;
+    font-family: "Arial";
+    background-color: #a71930;
+}
+
+#HTTP {
+    color: #EBE05F;
+    font-family: "Arial";
+    background-color: #a71930;
+}
+
+#URL {
+    color: #EBE05F;
+    font-family: "Arial";
+    background-color: #a71930;
+}
+
+h2 {
+    color: #EBE05F;
+    font-family: "Arial";
+    background-color: #a71930;
+}
+
+a {
+    color:#FF5554
+}
+
+p {
+    font-family: "Arial"; 
+    color: #a5acaf
+}
+
+table {
+    border: 3px;
+    border-color: #a71930;
+    color: #a5acaf;
+    border-collapse: collapse;
+    
+}
+
+ul {
+    list-style-type: circle;
+    
+}
+
+
